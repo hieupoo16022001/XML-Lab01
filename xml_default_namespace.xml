@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DOCUMENT xmlns="http://www.starpowder.com/dtd/">
+    <CUSTOME>
+        <NAME>
+            <LAST_NAME>Smith</LAST_NAME>
+            <FIST_NAME>Sam</FIST_NAME>
+        </NAME>
+        <DATE>October 15, 2003</DATE>
+            <ODERS>
+                <ITEM>
+                    <PRODUCT>Tomatoes</PRODUCT>
+                    <NUMBER>8</NUMBER>
+                    <PRICE>$1.25</PRICE>
+                </ITEM>
+                <ITEM>
+                    <PRODUCT>ORANGES</PRODUCT>
+                    <NUMBER>24</NUMBER>
+                    <PRICE>$4.98</PRICE>
+                </ITEM>
+            </ODERS>
+    </CUSTOME>
+    <CUSTOME>
+        <NAME>
+            <LAST_NAME>Jones</LAST_NAME>
+            <FIST_NAME>Polly</FIST_NAME>
+        </NAME>
+        <DATE>October 20, 2003</DATE>
+        <ODERS>
+            <ITEM>
+                <PRODUCT>Bread</PRODUCT>
+                <NUMBER>12</NUMBER>
+                <PRICE>@14.95</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>Apples</PRODUCT>
+                <NUMBER>6</NUMBER>
+                <PRICE>$1.50</PRICE>
+            </ITEM>
+        </ODERS>
+    </CUSTOME>
+</DOCUMENT>

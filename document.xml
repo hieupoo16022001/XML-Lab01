@@ -1,0 +1,14 @@
+<!DOCTYPE DOCUMENT [
+    <!ELEMENT document (heading, message)>
+    <!ELEMENT heading (#PCDATA)>
+    <!ELEMENT message (#PCDATA)>
+        ]>
+
+<document>
+    <heading>
+        HELLO FROM XML
+    </heading>
+    <message>
+        this is an XML document
+    </message>
+</document>
